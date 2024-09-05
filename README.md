@@ -1,3 +1,6 @@
+Nama : Tri Tusmita
+NIM : 09011182328114
+
 # Tugas File System
 
 # 1. Lihat peralatan I/O, character device, yang ada pada system komputer. 
@@ -63,10 +66,10 @@ Perintah ls -l akan menunjukkan berapa link yang telah dibuat, ada 3 link
 
 # File Dataku.ini
 ![dataku iniiii](https://github.com/user-attachments/assets/fd1c1725-b465-4ee9-9da6-5f084fc392ce)
-![file februari](https://github.com/user-attachments/assets/78f8784c-9b40-4044-a969-dc0572251006)
 
 # File Dataku.juga
 ![dataku juga](https://github.com/user-attachments/assets/ba530588-9997-433a-9a50-b40e6d19b3fd)
 
 # File Februari
+![file februari](https://github.com/user-attachments/assets/78f8784c-9b40-4044-a969-dc0572251006)
 
