@@ -48,12 +48,25 @@ Mengubah umask menjadi 027, nilai default nya 0027
 
 # 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi ?
 ![soal10](https://github.com/user-attachments/assets/bece11c8-eb9d-4cbb-813e-685a66e61923)
-![soal55](https://github.com/user-attachments/assets/5a7fb930-9585-44c4-a95b-38da0337bc44)
 ![soal1010](https://github.com/user-attachments/assets/ebbfd948-21e2-4779-b18b-2f85f00af8e2)
-![dataku](https://github.com/user-attachments/assets/b7fe2fa6-7225-45df-b8fb-17b16227cdfa)
-![file februari](https://github.com/user-attachments/assets/78f8784c-9b40-4044-a969-dc0572251006)
+
+Perintah ls -l akan menunjukkan berapa link yang telah dibuat, ada 3 link
+
+# File Januari dan Februari
 ![file januari februari](https://github.com/user-attachments/assets/856ca705-e937-4a37-a9e0-dca309bf342b)
+
+# Isi File Januari
 ![file januari](https://github.com/user-attachments/assets/7ec347fd-5a50-4bf5-b44c-e6cd4be6a839)
-![dataku juga](https://github.com/user-attachments/assets/ba530588-9997-433a-9a50-b40e6d19b3fd)
-![dataku](https://github.com/user-attachments/assets/99313b3e-0801-4d95-917d-9e3ed044a871)
+
+# File Dataku
+![dataku](https://github.com/user-attachments/assets/b7fe2fa6-7225-45df-b8fb-17b16227cdfa)
+
+# File Dataku.ini
 ![dataku iniiii](https://github.com/user-attachments/assets/fd1c1725-b465-4ee9-9da6-5f084fc392ce)
+![file februari](https://github.com/user-attachments/assets/78f8784c-9b40-4044-a969-dc0572251006)
+
+# File Dataku.juga
+![dataku juga](https://github.com/user-attachments/assets/ba530588-9997-433a-9a50-b40e6d19b3fd)
+
+# File Februari
+
