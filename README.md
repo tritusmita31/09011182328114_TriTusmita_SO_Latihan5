@@ -1,5 +1,6 @@
-# Nama : Tri Tusmita
-# NIM : 09011182328114
+Nama : Tri Tusmita
+
+NIM : 09011182328114
 
 # Tugas File System
 
