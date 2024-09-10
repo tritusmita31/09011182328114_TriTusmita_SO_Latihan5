@@ -17,7 +17,7 @@ Membuat direktori januari, februari, dan maret dalam direktori latihan5.
 
 Membuat file dataku di januari, kemudian meng-copy ke februari dan maret.
 
-# 4. bahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write.
+# 4. ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write.
 ![soal4](https://github.com/user-attachments/assets/ea2d08c9-1b43-4af3-bca4-ea1a9f532521)
 
 Mengubah izin file dataku di januari sehingga semua (user, group, others) bisa read dan write.
